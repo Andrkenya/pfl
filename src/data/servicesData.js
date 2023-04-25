@@ -14,12 +14,12 @@ export const servicesData = [
     // },
     {
         id: 2,
-        title: 'Content Writing',
+        title: 'Author',
         icon: <BiPencil /> 
     },
     {
         id: 3,
-        title: 'Email Marketing',
+        title: 'Web Mails',
         icon: <AiOutlineMail />
     },
     // {
@@ -27,20 +27,20 @@ export const servicesData = [
     //     title: 'Internet Research',
     //     icon: <FaInternetExplorer />
     // },
-    // {
-    //     id: 5,
-    //     title: 'Tutoring',
-    //     icon: <FaChalkboardTeacher />
-    // },
+     {
+         id: 5,
+         title: 'Professional Training',
+         icon: <FaChalkboardTeacher />
+     },
 
     {
         id: 6,
-        title: 'Web Design',
+        title: 'Software Development',
         icon: <BsCodeSlash />
     },
     {
         id: 7,
-        title: 'Photography',
+        title: 'Graphics',
         icon: <FaCameraRetro />
     },
     // {
@@ -48,11 +48,11 @@ export const servicesData = [
     //     title: 'Pinterest Virtual Assistant',
     //     icon: <FaPinterest />
     // }, 
-    {
-        id: 9,
-        title: 'Video Editing',
-        icon: <FaVideo />
-    },
+    //{
+     //   id: 9,
+     //   title: 'Video Editing',
+      //  icon: <FaVideo />
+    //},
     // {
     //     id: 10,
     //     title: 'Data Entry', 
@@ -60,7 +60,7 @@ export const servicesData = [
     // },
     {
         id: 11,
-        title: 'Ebook Writing',
+        title: 'Mobile Development',
         icon: <FaTabletAlt />
     },
     // {
@@ -70,7 +70,7 @@ export const servicesData = [
     // },
     {
         id: 13,
-        title: 'Blog Posting',
+        title: 'Modeling & Simulation',
         icon: <FaRegNewspaper />
     },
 
