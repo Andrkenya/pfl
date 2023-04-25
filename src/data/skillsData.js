@@ -1,4 +1,13 @@
  export const skillsData = [
+    'Tensorflow',
+    'Numpy',
+    'Nginx',
+    'OpenCV',
+    'Selenium',
+    'Pytorch',
+    'MaterialUI',
+    'Tailwind',
+    'PostgreSQL',
     'HTML',
     'Fastify',
     'Blender',
@@ -6,7 +15,13 @@
     'Javascript',
     'CSS',
     'React',
-    'Django',
+    'Next JS',
+    'Node JS',
+    'Docker',
+    'Vue',
+    'Java',
+    'Bootstrap',
+    'Django'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
