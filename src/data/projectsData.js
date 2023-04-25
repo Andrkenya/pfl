@@ -15,7 +15,7 @@ export const projectsData = [
         projectDesc: 'This project aims to build a mobile tool based framework that operates on the backbone of Explainable Deep-Learning and Analytics (DS) to detect cancer ealier.',
         tags: ['Python', 'React-Native', 'Tensorflow', 'Flask'],
         demo: '#',
-        image: one
+        image: three
     },
     {
         id: 2,
@@ -33,7 +33,7 @@ export const projectsData = [
         tags: ['Tailwinds', 'Flask', 'Python', 'Material Ui'],
         code: '#',
         demo: '#',
-        image: three
+        image: one
     },
     {
         id: 4,
