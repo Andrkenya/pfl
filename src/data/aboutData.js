@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Andrew. I'm an AI/ML Software Engineer and Data Scientist based in East-Africa.",
-    description2: "During the day I work as a Software Development Engineer at Bodastage Solutions and in the evening I  work on Research projects, schooling and personal studies to extend my knowledge base. I spend my leisure hours writing, reading, social meetings and volley. Currently I'm utilizing machine learning, AI and Data Science to optimize Healthcare services and general medicine. I'm passionate about exploring new areas.",
+    description1: "Andrew is an AI/ML Specialist, a dedicated Software Engineering practitioner and a Data Scientist based in the Pearl of Africa.",
+    description2: "On a daily basis, he works as a Software Development Engineer at Bodastage Solutions and in the evening he focuses on his Research projects, school activities and personal studies to extend his expertise and knowledge base. Leisure hours are spent writing, reading, social gatherings and volley. Currently his research is focused on utilizing Deep learning and Data Science to optimize Healthcare services and general medicine. Additionally he's passionate about exploring new fields and inventions globally.",
     image: 2
 }
