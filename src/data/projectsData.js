@@ -55,15 +55,30 @@ export const projectsData = [
     },
     {
         id: 6,
-        projectName: 'Ride-r'
+        projectName: 'Ride-r',
+        projectDesc: '',
+        tags: ['React', 'Bootsrap'],
+        code: '#',
+        demo: '#',
+        image: six
     },
     {
         id: 7,
-        projectName: 'Stock-Thinker'
+        projectName: 'Stock-Thinker',
+        projectDesc: '',
+        tags: ['Vue', 'Laravel'],
+        code: '#',
+        demo: '#',
+        image: seven
     },
     {
         id: 8,
-        projectName: 'Smart-Automotive'
+        projectName: 'Smart-Automotive',
+        projectDesc: '',
+        tags: ['React'],
+        code: '#',
+        demo: '#',
+        image: eight
     },
 ]
 
