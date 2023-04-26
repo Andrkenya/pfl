@@ -48,7 +48,7 @@ export const testimonialsData = [
         id: 6,
         name: 'K Gracious',
         title: 'Friend',
-        text: 'Never met a better friend as him.",
+        text: 'Never met a better friend as him.',
         image: girl2
     }
 ]
