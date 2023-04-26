@@ -20,4 +20,11 @@ export const educationData = [
         startYear: '2016',
         endYear: '2018'
     },
+    {
+        id: 4,
+        institution: 'Doctoral Prospective',
+        course: 'Genomic Data Science',
+        startYear: '2024',
+        endYear: '2027'
+    },
 ]
