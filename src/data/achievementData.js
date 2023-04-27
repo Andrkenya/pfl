@@ -1,5 +1,5 @@
 export const achievementData = {
-    bio : "Over the years, Andrew has fruitfully obtained several wins and certificates. *Putting quantified achievements on a resume is great, but I just don’t work with hard numbers* The quality of my work is auto-ticked.",
+    bio : "Over the years, Andrew has earned several wins, recognition and certificates. His persistence and determination have led him to several adventures, connections and personal development.Although he still holds many untravelled journeys, the future seems brighter.",
     achievements : [
         {
             id : 1,
