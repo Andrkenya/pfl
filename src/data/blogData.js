@@ -1,18 +1,18 @@
 export const blogData = [
     {
         id: 1,
-        title: 'SCRAPING BILLBOARD AND IMDB USING PYTHON SELENIUM',
-        description: 'Here we will use Selenium to navigate between web pages, and try to scrape data from them.',
-        date: 'Aug 7, 2020',
-        image: 'https://1.bp.blogspot.com/-6vZQoWcIZeo/Xvw5ZD5Y53I/AAAAAAAABgI/GH2b5OuMaXAKuigK4diBbeYDW6dD3qVvgCK4BGAsYHg/w400-h225/selenium.jpg',
+        title: 'Meet Malaika, The special LLM',
+        description: 'This is a Large Language Model operating on generative transformers (GT) for empathy, sympathy and indepth attachment to humans at the edge of life or depressed.'
+        date: 'April 26, 2023',
+        image: 'https://raw.githubusercontent.com/Andrkenya/doc-s/main/malaika.png',
         url: '#'
     },
     {
         id: 2,
-        title: 'CHECK WEATHER FROM TERMINAL USING WTTR.IN',
-        description: 'wttr.in is a console-oriented weather forecast service that supports various information representation methods like ANSI-sequences for console HTTP clients, HTML, or PNG.',
-        date: 'Aug 11, 2020',
-        image: 'https://1.bp.blogspot.com/-OW7jX57tea4/XvnGxuEOslI/AAAAAAAABW0/R8lVT1AXDSwnvE0EGA9Ra49-LDm1ACwDgCK4BGAsYHg/s1216/wttr1.png',
+        title: 'The CANSCAN Project',
+        description: 'This project aims to build a mobile tool based framework that operates on the backbone of Explainable Deep-Learning and Analytics (DS) to detect cancer ealier.',
+        date: 'Jan 28, 2023',
+        image: 'https://raw.githubusercontent.com/Andrkenya/doc-s/main/endcanc.png',
         url: '#'
     },
     {
