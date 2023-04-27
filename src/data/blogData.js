@@ -2,8 +2,8 @@ export const blogData = [
     {
         id: 1,
         title: 'Meet Malaika, The special LLM',
-        description: 'This is a Large Language Model operating on generative transformers (GT) for empathy, sympathy and indepth attachment to humans at the edge of life or depressed.'
-        date: 'April 26, 2023',
+        description: 'This is a Large Language Model operating on generative transformers (GT) for empathy, sympathy and indepth attachment to humans at the edge of life or depressed.',
+        date: 'April 26 2023',
         image: 'https://raw.githubusercontent.com/Andrkenya/doc-s/main/malaika.png',
         url: '#'
     },
@@ -11,7 +11,7 @@ export const blogData = [
         id: 2,
         title: 'The CANSCAN Project',
         description: 'This project aims to build a mobile tool based framework that operates on the backbone of Explainable Deep-Learning and Analytics (DS) to detect cancer ealier.',
-        date: 'Jan 28, 2023',
+        date: 'Jan 28 2023',
         image: 'https://raw.githubusercontent.com/Andrkenya/doc-s/main/endcanc.png',
         url: '#'
     },
