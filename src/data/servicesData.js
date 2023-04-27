@@ -14,7 +14,7 @@ export const servicesData = [
     // },
     {
         id: 2,
-        title: 'Author',
+        title: 'Authorship & Scientific Research',
         icon: <BiPencil /> 
     },
     {
@@ -35,12 +35,12 @@ export const servicesData = [
 
     {
         id: 6,
-        title: 'Software Development',
+        title: 'Software Development /Coding',
         icon: <BsCodeSlash />
     },
     {
         id: 7,
-        title: 'Graphics',
+        title: 'Motion Graphics',
         icon: <FaCameraRetro />
     },
     // {
