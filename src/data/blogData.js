@@ -19,7 +19,7 @@ export const blogData = [
         id: 3,
         title: 'Big Data Analytics',
         description: 'With an increase in the volune of data collected by several sectors. Its hectic to quickly extract knowledge & insights which calls for "Analysts".',
-        date: 'Feb 5, 2023',
+        date: 'Feb 7, 2023',
         image: 'https://raw.githubusercontent.com/Andrkenya/doc-s/main/bgdata.png',
         url: '#'
     },
