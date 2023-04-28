@@ -1,7 +1,7 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Exploring initial stages of gene-editing, sequencing, DNA, RNA & Proteins. Rooted at (Multi-Digital Gene)',
+        institution: 'Exploring initial stages of gennomics & sequencing',
         course: 'Doctoral Prospective (Genomic Data Science & Machine Learning)',
         startYear: '2024',
         endYear: '2027'
