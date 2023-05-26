@@ -3,8 +3,8 @@ export const educationData = [
         id: 1,
         institution: 'Genomic Data Science & Machine Learning',
         course: 'Doctoral Prospective',
-        startYear: '2024',
-        endYear: '2027'
+        startYear: '1',
+        endYear: '3'
     },    
     {
         id: 2,
