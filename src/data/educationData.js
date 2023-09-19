@@ -9,7 +9,7 @@ export const educationData = [
     {
         id: 2,
         institution: 'Makerere University',
-        course: 'Master of Science in Computer Science',
+        course: 'Master of Science in CS. Artificial Intelligence & DS',
         startYear: '2021',
         endYear: 'Present'
     },
