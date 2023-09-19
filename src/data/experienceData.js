@@ -15,9 +15,9 @@ export const experienceData = [
     },
     {
         id: 3,
-        company: 'IDI',
-        jobtitle: 'Trainee',
-        startYear: '2018',
-        endYear: '2018'
+        company: 'Uganda Bureau of Statistics (UBOS)',
+        jobtitle: 'Researcher',
+        startYear: '2020',
+        endYear: '2020'
     },
 ]
