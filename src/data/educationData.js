@@ -1,7 +1,7 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Healthcare Modeling & Omics',
+        institution: 'AI',
         course: 'Doctoral Prospective',
         startYear: '1',
         endYear: '3'
